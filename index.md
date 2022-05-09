@@ -4,7 +4,7 @@ title: Ryan K. Waples
 ---
 
 <div style="float: left; padding-right: 25px; padding-bottom: 30px">
-	<a href="http://rwaples.github.io/assests/rwaples.jpg"><img src="assets/rwaples.jpg" width="300" alt="Ryan Waples" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+	<a href="https://rwaples.github.io/assets/rwaples.jpg"><img src="assets/rwaples.jpg" width="300" alt="Ryan Waples" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 
 ### Research
