@@ -3,10 +3,9 @@ locale                   : "en-US"
 title                    : "Ryan K. Waples"
 title_separator          : "-"
 name                     : &name "Ryan K. Waples"
-description              : &description "Personal website for Ryan K. Waples"
+description              : &description "Academic website for Ryan K. Waples"
 url                      : https://rwaples.github.io
 baseurl                  : ""
-repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false
 words_per_minute         : 160
@@ -19,10 +18,15 @@ twitter_username: waplesryan
 github_username:  rwaples
 
 show_downloads: false
-google_analytics: G-RKP7HHC8CP
+analytics :
+  provider : false
+sharing :
+  provider : false
+comments :
+  provider : false
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
-
+markdown: kramdown
 theme: jekyll-theme-cayman
