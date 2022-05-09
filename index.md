@@ -3,6 +3,10 @@ layout: page
 title: Ryan K. Waples
 ---
 
+<div style="float: left; padding-right: 25px; padding-bottom: 30px">
+	<a href="http://rwaples.github.io/assests/rwaples.jpg"><img src="assets/rwaples.jpg" width="300" alt="Ryan Waples" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+
 ### Research
 My primary research interests lie in population genetics, especially developing and applying methods to understand the recent history of populations. I work with both human and non-human populations, often with a history of admixture.  I am currently working on methods that utilize local ancestry information to understand the recent demographic history of admixed populations.
 
